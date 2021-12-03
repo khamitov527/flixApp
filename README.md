@@ -16,7 +16,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-![](https://github.com/khamitov527/flixApp/blob/main/flixApp.gif)
+<img src="https://github.com/khamitov527/flixApp/blob/main/flixApp.gif" width=250><br>
 
 ### Notes
 Minor syntax errors were made and solved after debugging. Layout was quite a problem but I managed to figure it out.
